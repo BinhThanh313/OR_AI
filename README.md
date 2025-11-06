@@ -2,10 +2,10 @@
 
 • Dataset tham khảo: Instacart Online Grocery 2017 (3M đơn hàng).
  Tải: https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset
- • Bài toán OR: Mô hình đa mặt hàng nhiều kỳ (ILP/LP) tối thiểu chi phí đặt,
+• Bài toán OR: Mô hình đa mặt hàng nhiều kỳ (ILP/LP) tối thiểu chi phí đặt,
  lưu kho, thiếu hụt; ràng buộc mức dịch vụ.
- • AI/ML: Dự báo nhu cầu (hàng × tuần) bằng RF/LightGBM.
- • Kết quả dự kiến: Đường cong chi phí–mức dịch vụ; so sánh baseline tồn kho
+• AI/ML: Dự báo nhu cầu (hàng × tuần) bằng RF/LightGBM.
+• Kết quả dự kiến: Đường cong chi phí–mức dịch vụ; so sánh baseline tồn kho
  định mức vs. forecast-driven.
 
 ## Cấu trúc dự án
