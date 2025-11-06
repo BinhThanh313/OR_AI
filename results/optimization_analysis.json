@@ -1,0 +1,34 @@
+{
+    "cost_breakdown": {
+        "Chi ph\u00ed \u0111\u1eb7t h\u00e0ng": 67500,
+        "Chi ph\u00ed t\u1ed3n kho": 376644.09743245,
+        "T\u1ed5ng chi ph\u00ed": 444144.09743245
+    },
+    "sensitivity_analysis": [
+        {
+            "variation": -20,
+            "holding_cost": 1.6,
+            "total_cost": 368815.27794596
+        },
+        {
+            "variation": -10,
+            "holding_cost": 1.8,
+            "total_cost": 406479.687689205
+        },
+        {
+            "variation": 0,
+            "holding_cost": 2.0,
+            "total_cost": 444144.09743245
+        },
+        {
+            "variation": 10,
+            "holding_cost": 2.2,
+            "total_cost": 481808.50717569503
+        },
+        {
+            "variation": 20,
+            "holding_cost": 2.4,
+            "total_cost": 519472.91691893997
+        }
+    ]
+}
